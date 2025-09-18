@@ -1,0 +1,11 @@
+# application.yml (??)
+server:
+  port: 5123
+
+filer:
+  base: http://localhost:8888
+
+storage:
+  bucket: upload-test
+
+
